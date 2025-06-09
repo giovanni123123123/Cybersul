@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/06/09 11:15:02.000.707,=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/09 11:15:18.000.173,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul.pas=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/09 11:15:18.000.173,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul.dfm=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/06/09 11:15:24.000.061,=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/09 11:24:52.000.647,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\U_FirebirdConnection.dfm=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/06/09 11:24:52.000.647,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\U_FirebirdConnection.pas=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/09 11:59:14.000.270,=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/06/09 12:00:12.000.046,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\U_Cadastro1.dfm=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2025/06/09 12:00:12.000.046,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\U_Cadastro1.pas=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/06/09 12:47:39.000.123,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoTesteCyberSul.dproj=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/06/09 13:20:38.000.405,=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\Unit1.pas</Transaction>
+    <Transaction>2025/06/09 13:21:29.000.754,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\Unit1.pas=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\U_ConexaoFirebird.pas</Transaction>
+    <Transaction>2025/06/09 13:21:29.000.754,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\Unit1.dfm=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\U_ConexaoFirebird.dfm</Transaction>
+    <Transaction>2025/06/09 16:08:27.000.306,=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\Unit2.pas</Transaction>
+    <Transaction>2025/06/09 16:08:37.000.872,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\Unit2.dfm=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\U_Opcoes.dfm</Transaction>
+    <Transaction>2025/06/09 16:08:37.000.872,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\Unit2.pas=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\U_Opcoes.pas</Transaction>
+    <Transaction>2025/06/09 16:24:29.000.650,=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\Unit2.pas</Transaction>
+    <Transaction>2025/06/09 16:24:39.000.986,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\Unit2.dfm=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\U_ImpressaoClientes.dfm</Transaction>
+    <Transaction>2025/06/09 16:24:39.000.986,C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\Unit2.pas=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjetoCyberSul\U_ImpressaoClientes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
